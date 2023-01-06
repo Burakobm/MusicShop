@@ -7,10 +7,7 @@ MusicShop is an application that has been given to me as a school assignment. In
 # How to Use The Project
 1) I used db first approach you need to have query code in order to create the database
 [QueryCode.txt](https://github.com/Burakobm/MusicShop/files/10239747/QueryCode.txt)
-2) You need some nuget packages:    *EntityFramework(6.4.4)  
-*JqueryDataTables.ServerSide.AspNetCoreWeb(4.0.0) 
-*Microsoft.AspNet.Mvc(5.2.9)    *Microsoft.AspNetCore.Identity.EntityFrameworkCore(6.0.11)  *Microsoft.AspNetCore.Mvc.ViewFeatures(2.2.0)  *Microsoft.AspNetCore.ResponseCompression(2.2.0)  *Microsoft.EntityFrameworkCore(6.0.11)  *Microsoft.EntityFrameworkCore.SqlServer(6.0.11)  
-3)   ![image](https://user-images.githubusercontent.com/90522490/207773017-9fbc7ac4-1c58-4cdd-9e2d-ba1620b0d1f9.png)  
+2)   ![image](https://user-images.githubusercontent.com/90522490/207773017-9fbc7ac4-1c58-4cdd-9e2d-ba1620b0d1f9.png)  
  Then as you can see in the image above you need to make some changes in appsettings.json in the MusicShop project."DefaultConnection":"Server=(YourServerName);Database="YourDataBaseName";Trusted_Connection=True".It'll connect your created database with the project.
-4) You can start using the project.
+3) You can start using the project.
 (query you need to write in database)
